@@ -9,3 +9,10 @@
     align-items: flex-end;
     display: flex;
 }
+
+@media screen and (max-width: 727px) {
+    .footer__copyright {
+        font-size: 14px;
+        line-height: 14px;
+    }
+}
