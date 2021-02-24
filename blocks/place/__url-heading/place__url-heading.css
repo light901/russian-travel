@@ -8,10 +8,3 @@
     color: #AAAAAA;
     text-transform: uppercase;
 }
-
-@media screen and (max-width: 650px) {
-    .place__url-heading {
-      padding-left: 16px;
-      padding-right: 16px;
-    }
-  }

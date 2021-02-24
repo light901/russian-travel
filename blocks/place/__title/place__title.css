@@ -6,6 +6,7 @@
     line-height: 76px;
     color: #FFFFFF;
     margin: 0;
+    align-self: flex-end;
 }
 
 @media screen and (max-width: 1023px) {
@@ -15,9 +16,11 @@
     }
   }
 
-  @media screen and (max-width: 650px) {
+  @media screen and (max-width: 700px) {
     .place__title {
       padding-left: 16px;
       padding-right: 16px;
+      font-size: 32px;
+      line-height: 35px;
     }
   }
