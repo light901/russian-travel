@@ -18,10 +18,12 @@ z-index: 1;
   height: 100%;
   background-color: #2A2C2F;
   opacity: 0.3;
+  transition: 1.2s;
   z-index: -1;
 }
 
 .cover__link:hover::before {
+  transition: 1.2s;
   opacity: 0.8;
 }
 
