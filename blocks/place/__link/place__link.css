@@ -7,10 +7,3 @@
     color: #FFFFFF;
     text-decoration-line: underline;
 }
-
-@media screen and (max-width: 700px) {
-    .place__link {
-      padding-left: 16px;
-      padding-right: 16px;
-    }
-  }
